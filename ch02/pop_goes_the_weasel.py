@@ -10,5 +10,6 @@ first_list.insert(0,'forever')
 first_list.insert(0,'see')
 first_list.insert(0,'can')
 first_list.insert(0,'you')
-
+print(first_list)
+first_list.insert(6, 'very')
 print(first_list)
