@@ -17,4 +17,5 @@ phrase_list.insert(2, ' ')
 for num in range(4):
     phrase_list.pop()
 final_phrase = ''.join(phrase_list)
+print(phrase_list)
 print(final_phrase)
