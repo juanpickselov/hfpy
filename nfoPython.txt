@@ -1,0 +1,1 @@
+conn = jaydebeapi.connect("org.h2.Driver", "jdbc:h2:~/test", ["sa", ""], "/Users/angelo/websites/GEPR/h2/bin/h2-1.4.197.jar",)
